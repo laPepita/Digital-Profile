@@ -1,17 +1,4 @@
 # careers section data
-- name:
-    detail: Nextcode
-    i18n: nextcode
-  desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
-    i18n: nextcode_des
-  date:
-    detail: Apr. 2016
-    i18n: nextcode_date
-  job:
-    detail: Python Developer
-    i18n: nextcode_job
-  icon: fa-plus-square
 
 - name:
     detail: Netease Game
@@ -43,14 +30,42 @@
 
 - name:
     detail: Graduation
-    i18n: college
+    i18n: Monash University
   desc:
-    detail: At July 2013,I graduated from college and started my IT technology tour.
+    detail: On July 2015, I graduated from Monash University with a bachelor of science and a bachelor of computer science.
     i18n: college_des
   date:
-    detail: Jul. 2013
+    detail: Jul. 2015
     i18n: college_date
   job:
     detail: Student
     i18n: college_job
   icon: fa-book
+
+- name:
+    detail: Exploration Geologist
+    i18n: Jervous Mining Ltd.
+  desc:
+    detail: During early 2015, I worked as a Nickle/Colbolt exploration geologist in the Cobar Basin, NSW.
+    i18n: college_des
+  date:
+    detail: Feb. 2015
+    i18n: college_date
+  job:
+    detail: Junior exploration geologist
+    i18n: college_job
+  icon: fa-book
+  
+  - name:
+      detail: Software engineer
+      i18n: CSIRO
+    desc:
+      detail: During the summer of 2014/2015, I worked as a software engineer in the Land and Water flagship of CSIRO.
+      i18n: college_des
+    date:
+      detail: Nov. 2014
+      i18n: college_date
+    job:
+      detail: Student
+      i18n: college_job
+    icon: fa-book
