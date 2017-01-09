@@ -1,21 +1,24 @@
 # skills section data
-- name: Python
+- name: Prototyping
   percentage: 85
 
 - name: HTML/CSS
   percentage: 65
-
-- name: Linux/Shell
+  
+  - name: Design Thinking
+  percentage: 30
+  
+- name: Agile
   percentage: 75
 
-- name: jQuery
-  percentage: 85
+- name: Storytelling
+  percentage: 90
 
-- name: AngularJS
-  percentage: 80
+- name: Javascript
+  percentage: 20
 
-- name: Ionic
-  percentage: 70
-
-- name: Vuejs
-  percentage: 65
+- name: Sketch
+  percentage: 2
+  
+  - name: Photoshop
+  percentage: 60
