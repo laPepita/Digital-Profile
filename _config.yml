@@ -3,7 +3,7 @@
 # Website settings
 title: "Fabrizio Giabardo"
 description: "Fabrizio Giabardo's Digital Profile"
-keywords: "Fabrizio, Fab, Giabardo,resume, linkedin, Digital profile, Melbourne, Service design, design, github"
+keywords: "Fabrizio, Fab, Giabardo, resume, linkedin, Digital profile, Melbourne, Service design, design, github"
 baseurl: "/Digital-Profile/"
 url: "http://lapepita.github.io"
 # url: "http://127.0.0.1:4000"
@@ -52,3 +52,5 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+  
+timezone: Australia/Melbourne
