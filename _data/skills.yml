@@ -5,7 +5,7 @@
 - name: HTML/CSS
   percentage: 65
   
-  - name: Design Thinking
+- name: Design Thinking
   percentage: 30
   
 - name: Agile
@@ -20,5 +20,5 @@
 - name: Sketch
   percentage: 2
   
-  - name: Photoshop
+- name: Photoshop
   percentage: 60
