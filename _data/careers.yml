@@ -56,16 +56,16 @@
     i18n: college_job
   icon: fa-book
   
-  - name:
-      detail: Software engineer
-      i18n: CSIRO
-    desc:
-      detail: During the summer of 2014/2015, I worked as a software engineer in the Land and Water flagship of CSIRO.
-      i18n: college_des
-    date:
-      detail: Nov. 2014
-      i18n: college_date
-    job:
-      detail: Student
-      i18n: college_job
-    icon: fa-book
+- name:
+    detail: Software engineer
+    i18n: CSIRO
+  desc:
+    detail: During the summer of 2014/2015, I worked as a software engineer in the Land and Water flagship of CSIRO.
+    i18n: college_des
+  date:
+    detail: Nov. 2014
+    i18n: college_date
+  job:
+    detail: Student
+    i18n: college_job
+  icon: fa-book
