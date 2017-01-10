@@ -6266,12 +6266,50 @@ body.rtls .top-navigation #page-wrapper,body.rtls .top-navigation .footer.fixed,
             50% { opacity:0; }
             100% { opacity:1; }
         }
+		
+		
 
-		.mast-header {
+
+		/* Mobile */
+			.mast-header {
 			
-		    height: 500px;
-		    background: darkturquoise;
-			text-align: center;
-			background:url(../img/landing/header_one.jpg); 
-			background-size: cover;
-		}
+			    height: 175px;
+			    background: darkturquoise;
+				text-align: center;
+				background:url(../img/landing/header_one.jpg); 
+				background-size: cover;
+			}
+			.wrap {
+	    padding: 100px 5%;
+	}
+		
+			/* Tablet */
+			@media (min-width: 768px) and (max-width: 1200px) {
+				.mast-header {
+			
+				    height: 300px;
+					background-size: cover;
+				}
+				.wrap {
+	    padding: 175px 10%;
+	}
+	#typed {
+	    font-size: large;
+	}
+			  }
+		  
+			/* Desktop */
+	  		@media (min-width: 1200px) {
+			
+				.mast-header {
+			
+				    height: 400px;
+					background-size: cover;
+				}
+				.wrap {
+	    padding: 225px 25%;
+	}
+	#typed {
+	    font-size: x-large;
+	}
+	  		  }
