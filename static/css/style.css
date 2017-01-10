@@ -6272,4 +6272,6 @@ body.rtls .top-navigation #page-wrapper,body.rtls .top-navigation .footer.fixed,
 		    height: 500px;
 		    background: darkturquoise;
 			text-align: center;
+			background:url(../img/landing/header_one.jpg); 
+			background-size: cover;
 		}
