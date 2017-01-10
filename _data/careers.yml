@@ -3,26 +3,32 @@
 - name:
     detail: Who knows?
   desc:
-    detail: In this position, I learned game service system and use Python code for ops.
+    detail: Do I make it to San Fran?
   date:
-    detail: Jun. 2015
+    detail: Jun. 2018
   job:
-    detail: Test
-  icon: fa-gamepad
+    detail: Travel
+  icon: fa-plane
+
+- name:
+    detail: Agile Scrum Mater
+  desc:
+    detail: Late 2016 I completed my Scrum Master training and completed the test with 92%.
+  date:
+    detail: Oct. 2016
+  job:
+    detail: Scrum Master
+  icon: fa-check
 
 - name:
     detail: Deloitte Digital
-    i18n: ucloud
   desc:
     detail: In Deloitte Digital, I managed to really develop my service design skills.
-    i18n: ucloud_des
   date:
     detail: Feb. 2015
-    i18n: ucloud_date
   job:
     detail: Service Designer
-    i18n: ucloud_job
-  icon: fa-cloud
+  icon: fa-rocket
 
 - name:
     detail: Graduation
@@ -36,7 +42,7 @@
   job:
     detail: Student
     i18n: college_job
-  icon: fa-book
+  icon: fa-graduation-cap
 
 - name:
     detail: Exploration Geologist
@@ -50,18 +56,15 @@
   job:
     detail: Junior exploration geologist
     i18n: college_job
-  icon: fa-book
+  icon: fa-diamond
   
 - name:
     detail: Software engineer
     i18n: CSIRO
   desc:
     detail: During the summer of 2014/2015, I worked as a software engineer in the Land and Water flagship of CSIRO.
-    i18n: college_des
   date:
     detail: Nov. 2014
-    i18n: college_date
   job:
     detail: Junior Software Engineer
-    i18n: college_job
-  icon: fa-book
+  icon: fa-code-fork

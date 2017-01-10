@@ -3,10 +3,10 @@
   percentage: 85
 
 - name: HTML/CSS
-  percentage: 65
+  percentage: 75
   
 - name: Design Thinking
-  percentage: 30
+  percentage: 50
   
 - name: Agile
   percentage: 75
@@ -15,7 +15,7 @@
   percentage: 90
 
 - name: Javascript
-  percentage: 20
+  percentage: 30
 
 - name: Sketch
   percentage: 2

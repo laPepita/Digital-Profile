@@ -1,17 +1,17 @@
 # projects section data
 
-- name: 'Jalpc-A'
-  i18n: 'angularjs'
-  repo: 'Jalpc-A'
-  img: 'static/img/landing/angularjs.png'
-  desc: "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well."
+- name: 'CGU'
+  img: 'static/img/landing/cgu.jpg'
+  desc: "Worked as a front end developer to theme a fourm platform and build out AJAX call functionality"
 
-- name: 'Rsser'
-  i18n: 'rsser'
-  repo: 'Rsser'
-  img: 'static/img/landing/rsser.png'
-  desc: Rsser is an Ionic application, with this application we can read news and articles freely, you can add rss address from the given list and add it manually.
+- name: 'HeyBuds Start-up Weekend'
+  img: 'static/img/landing/heyBuds.png'
+  desc:  "Over 52 hours a team and I validated ideas, rapidly prototyped and user tested a flower deliver network/platform.  We developed our value proposition well and won the competition."
+
+- name: 'Global Service Design Jam Melbourne'
+  img: 'static/img/landing/globServ.jpeg'
+  desc:  "In a spirit of experimentation, co-operation and friendly competition, my team had 48 hours to develop brand new services inspired by a shared theme using Design Thinking. "
 
 - name: 'AustralianSuper'
   img: 'static/img/landing/ausSuper.jpeg'
-  desc: I spent a term of 8 months at AustralianSuper on a secondment.  I identified a number of issues and 
+  desc: "I spent a term of 8 months at AustralianSuper on a secondment.  I identified a number of issues and... "
