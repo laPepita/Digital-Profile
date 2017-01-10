@@ -11,14 +11,6 @@
 - name: HTML
   href: '/html/'
 
-- name: Database
-  href: '/database/'
+- name: Surf
+  href: '/surf/'
 
-- name: Mac
-  href: '/mac/'
-
-- name: Life
-  href: '/life/'
-
-- name: Donate
-  href: '/donate/'

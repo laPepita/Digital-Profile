@@ -1,30 +1,26 @@
 # careers section data
 
 - name:
-    detail: Netease Game
-    i18n: netease
+    detail: Who knows?
   desc:
-    detail: In Netease game, I learned game service system and use Python code for ops.
-    i18n: netease_des
+    detail: In this position, I learned game service system and use Python code for ops.
   date:
     detail: Jun. 2015
-    i18n: nextcode_date
   job:
-    detail: Dev Ops
-    i18n: netease_job
+    detail: Test
   icon: fa-gamepad
 
 - name:
-    detail: Ucloud
+    detail: Deloitte Digital
     i18n: ucloud
   desc:
-    detail: In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.
+    detail: In Deloitte Digital, I managed to really develop my service design skills.
     i18n: ucloud_des
   date:
-    detail: Sep. 2013
+    detail: Feb. 2015
     i18n: ucloud_date
   job:
-    detail: Dev Ops
+    detail: Service Designer
     i18n: ucloud_job
   icon: fa-cloud
 
@@ -66,6 +62,6 @@
     detail: Nov. 2014
     i18n: college_date
   job:
-    detail: Student
+    detail: Junior Software Engineer
     i18n: college_job
   icon: fa-book

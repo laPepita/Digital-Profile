@@ -6223,10 +6223,6 @@ body.rtls .top-navigation #page-wrapper,body.rtls .top-navigation .footer.fixed,
     left:0
 }
 /*Css for the typing text on the main page*/
-.wrap{
-	max-width: 600px;
-	margin:150px auto;
-}
 
 .type-wrap{
 	margin:10px auto;
@@ -6270,3 +6266,10 @@ body.rtls .top-navigation #page-wrapper,body.rtls .top-navigation .footer.fixed,
             50% { opacity:0; }
             100% { opacity:1; }
         }
+
+		.mast-header {
+			
+		    height: 500px;
+		    background: darkturquoise;
+			text-align: center;
+		}
