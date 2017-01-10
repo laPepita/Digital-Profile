@@ -6307,7 +6307,7 @@ body.rtls .top-navigation #page-wrapper,body.rtls .top-navigation .footer.fixed,
 			
 				.mast-header {
 			
-				    height: 400px;
+				    height: 500px;
 					background-size: cover;
 				}
 				.wrap {
@@ -6315,5 +6315,6 @@ body.rtls .top-navigation #page-wrapper,body.rtls .top-navigation .footer.fixed,
 	}
 	#typed {
 	    font-size: x-large;
+		ont-weight: bold;color: black;
 	}
 	  		  }
