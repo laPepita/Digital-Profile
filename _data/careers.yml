@@ -59,10 +59,10 @@
   icon: fa-diamond
   
 - name:
-    detail: Software engineer
+    detail: Software Engineer
     i18n: CSIRO
   desc:
-    detail: During the summer of 2014/2015, I worked as a software engineer in the Land and Water flagship of CSIRO.  Here I learned most of my HTML and CSS skills and became very familiar with Agile, Git, GitHub and APIs.
+    detail: During the summer of 2014/2015, I worked as a software engineer in the Land and Water flagship of CSIRO.  Here I learned most of my HTML and CSS skills and became very familiar with Agile, Git, GitHub and APIs. I am very grateful for this opportunity, thank you Simon Cox and Jonathan Yu.
   date:
     detail: Nov. 2014
   job:
