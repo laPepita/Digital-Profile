@@ -3,7 +3,7 @@
 - name:
     detail: Where to next?
   desc:
-    detail: Not sure yet but San Fran look pretty good to me.  I'll have to keep you posted.
+    detail: Not sure yet but San Fran looks pretty good to me.  I'll have to keep you posted.
   date:
     detail: Jun. 2018
   job:
@@ -54,7 +54,7 @@
     detail: Feb. 2015
     i18n: college_date
   job:
-    detail: Junior exploration geologist
+    detail: Junior Exploration Geologist
     i18n: college_job
   icon: fa-diamond
   

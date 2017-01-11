@@ -4,7 +4,7 @@ title:  First post!
 desc: “My first blog with jekyll"
 keywords: "jekyll,blog,first"
 date: 2017-01-11
-categories: [Life]
+categories: [Surf]
 icon: fa-bookmark-o
 subtitle: Just kicking things off for my journey
 comments: true

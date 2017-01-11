@@ -2,11 +2,11 @@
 
 - name: 'CGU'
   img: 'static/img/landing/cgu.jpg'
-  desc: "Worked as a front end developer to theme a fourm platform and build out AJAX call functionality"
+  desc: "Worked as a front end developer to theme a forum platform and build out AJAX call functionality"
 
 - name: 'HeyBuds Start-up Weekend'
   img: 'static/img/landing/heyBuds.png'
-  desc:  "Over 52 hours a team and I validated ideas, rapidly prototyped and user tested a flower deliver network/platform.  We developed our value proposition well and won the competition."
+  desc:  "Over 52 hours a team and I validated ideas, rapidly prototyped and user tested a flower delivery network/platform.  We developed our value proposition well and won the competition."
 
 - name: 'Global Service Design Jam Melbourne'
   img: 'static/img/landing/globServ.jpeg'
