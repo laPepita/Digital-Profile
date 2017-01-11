@@ -1,9 +1,9 @@
 # careers section data
 
 - name:
-    detail: Who knows?
+    detail: Where to next?
   desc:
-    detail: Do I make it to San Fran?
+    detail: Not sure yet but San Fran look pretty good to me.  I'll have to keep you posted.
   date:
     detail: Jun. 2018
   job:
@@ -11,9 +11,9 @@
   icon: fa-plane
 
 - name:
-    detail: Agile Scrum Mater
+    detail: Agile Scrum Master
   desc:
-    detail: Late 2016 I completed my Scrum Master training and completed the test with 92%.
+    detail: Late 2016 I completed my offical Scrum Master training, I passed the test with a 92%.  I have used Scrum on a number of projects at Deloitte and at university but it was nice to finally have an offical qualification. 
   date:
     detail: Oct. 2016
   job:
@@ -23,7 +23,7 @@
 - name:
     detail: Deloitte Digital
   desc:
-    detail: In Deloitte Digital, I managed to really develop my service design skills.
+    detail: I joined the Melbourne office of Deloitte Digital as a grad early 2016. Deloitte Digital was founded in Melbourne which means it has a very advanced and experienced team.  The culture was amazing and working as a consultant I was able to work across such projects as a Front-end Developer, a Service Designer, a User Experience designer and a data analyst.  I also was able to build upon my Adobe Creative Suite skills.
   date:
     detail: Feb. 2015
   job:
@@ -34,7 +34,7 @@
     detail: Graduation
     i18n: Monash University
   desc:
-    detail: On July 2015, I graduated from Monash University with a bachelor of science and a bachelor of computer science.
+    detail: On July 2015, I graduated from Monash University with a bachelor of science and a bachelor of computer science.  My science major was geology where I ranked top of my class of 100+ in economic geology and rated in the top 5% for all other final year subjects.  My computer science major was HCI (Human-Computer interaction) and general with a minor in mathematics.   For my final year computer science project I developed a machine learning algorithm that recognised written numbers from 1-9 more accurately than a human could with accuracy up to 98.5%. 
     i18n: college_des
   date:
     detail: Jul. 2015
@@ -48,7 +48,7 @@
     detail: Exploration Geologist
     i18n: Jervous Mining Ltd.
   desc:
-    detail: During early 2015, I worked as a Nickle/Colbolt exploration geologist in the Cobar Basin, NSW.
+    detail: During early 2015, I worked as a Nickel/Cobalt exploration geologist in the Cobar Basin, NSW.
     i18n: college_des
   date:
     detail: Feb. 2015
@@ -62,7 +62,7 @@
     detail: Software engineer
     i18n: CSIRO
   desc:
-    detail: During the summer of 2014/2015, I worked as a software engineer in the Land and Water flagship of CSIRO.
+    detail: During the summer of 2014/2015, I worked as a software engineer in the Land and Water flagship of CSIRO.  Here I learned most of my HTML and CSS skills and became very familiar with Agile, Git, GitHub and APIs.
   date:
     detail: Nov. 2014
   job:
