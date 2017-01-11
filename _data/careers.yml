@@ -13,7 +13,7 @@
 - name:
     detail: Agile Scrum Master
   desc:
-    detail: Late 2016 I completed my offical Scrum Master training, I passed the test with a 92%.  I have used Scrum on a number of projects at Deloitte and at university but it was nice to finally have an offical qualification. 
+    detail: Late 2016 I completed my offical Scrum Master training, I passed the test with a 92%.  I have used Scrum on a number of projects at Deloitte and at university, but it was nice to finally have an offical qualification. 
   date:
     detail: Oct. 2016
   job:
@@ -34,7 +34,7 @@
     detail: Graduation
     i18n: Monash University
   desc:
-    detail: On July 2015, I graduated from Monash University with a bachelor of science and a bachelor of computer science.  My science major was geology where I ranked top of my class of 100+ in economic geology and rated in the top 5% for all other final year subjects.  My computer science major was HCI (Human-Computer interaction) and general with a minor in mathematics.   For my final year computer science project I developed a machine learning algorithm that recognised written numbers from 1-9 more accurately than a human could with accuracy up to 98.5%. 
+    detail: In July 2015, I graduated from Monash University with a Bachelor of Science and a Bachelor of Computer Science.  My science major was geology where I ranked top of my class of 100+ in economic geology and rated in the top 5% for all other final year subjects.  My computer science major was HCI (Human-Computer interaction) and general with a minor in mathematics.   For my final year computer science project I developed a machine learning algorithm that recognised written numbers from 1-9 more accurately than a human could with accuracy up to 98.5%. 
     i18n: college_des
   date:
     detail: Jul. 2015
