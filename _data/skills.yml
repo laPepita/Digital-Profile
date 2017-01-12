@@ -37,7 +37,7 @@
   
 - name: Human-Centred-Design
   percentage: 60
-  img: 'static/img/landing/HCD.png'
+  img: 'static/img/landing/Human-cent.png'
   
 - name: Google Anayltics
   percentage: 60
