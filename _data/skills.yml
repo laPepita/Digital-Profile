@@ -37,4 +37,12 @@
   
 - name: Human-Centred-Design
   percentage: 60
-  img: 'static/img/landing/HCI.png'
+  img: 'static/img/landing/HCD.png'
+  
+- name: Google Anayltics
+  percentage: 60
+  img: 'static/img/landing/GA.png'
+  
+- name: Invision
+  percentage: 60
+  img: 'static/img/landing/invision.png'
