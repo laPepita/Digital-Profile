@@ -1,24 +1,40 @@
 # skills section data
 - name: Prototyping
   percentage: 85
+  img: 'static/img/landing/prototyping.png'
 
-- name: HTML/CSS
+- name: CSS
   percentage: 75
+  img: 'static/img/landing/CSS.png'
+
+- name: HTML
+  percentage: 75
+  img: 'static/img/landing/HTML.png' 
   
 - name: Design Thinking
   percentage: 50
+  img: 'static/img/landing/brain.jpeg'
   
 - name: Agile
   percentage: 75
-
+  img: 'static/img/landing/agile.png'
+  
 - name: Storytelling
   percentage: 90
-
+  img: 'static/img/landing/st.png'
+  
 - name: Javascript
   percentage: 30
-
+  img: 'static/img/landing/javascript.jpeg'
+  
 - name: Sketch
   percentage: 2
+  img: 'static/img/landing/sketch.jpeg'
   
 - name: Photoshop
   percentage: 60
+  img: 'static/img/landing/photoshop.jpeg'
+  
+- name: Human-Centred-Design
+  percentage: 60
+  img: 'static/img/landing/HCI.png'
