@@ -23,7 +23,7 @@
 - name:
     detail: Deloitte Digital
   desc:
-    detail: I joined the Melbourne office of Deloitte Digital as a grad early 2016. Deloitte Digital was founded in Melbourne which means it has a very advanced and experienced team.  The culture is amazing and working as a consultant I am able to work across projects as a Front-end Developer, a Service Designer, a User Experience designer and a data analyst.
+    detail: I joined the Melbourne office of Deloitte Digital as a grad early 2016. Deloitte Digital was founded in Melbourne which means it has a very advanced and experienced team.  The culture is amazing and as a consultant I am able to work across projects as a Front-end Developer, a Service Designer, a User Experience designer and a data analyst.
   date:
     detail: Feb. 2016
   job:
@@ -31,7 +31,7 @@
   icon: fa-rocket
 
 - name:
-    detail: Graduation
+    detail: University
     i18n: Monash University
   desc:
     detail: In July 2015, I graduated from Monash University with a Bachelor of Science and a Bachelor of Computer Science.  My science major was geology where I ranked top of my class of 100+ in economic geology and rated in the top 5% for all other final year subjects.  My computer science major was HCI (Human-Computer interaction) and general with a minor in mathematics.   For my final year computer science project I developed a machine learning algorithm that recognised written numbers from 1-9 more accurately than a human could with accuracy up to 98.5%. 
