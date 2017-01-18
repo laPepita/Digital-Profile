@@ -2,13 +2,10 @@
 - name: Blog
   href: '/blog/'
 
-- name: Python
-  href: '/python/'
-
 - name: Linux
   href: '/linux/'
 
-- name: HTML
+- name: Javascript
   href: '/html/'
 
 - name: Surf
