@@ -2,11 +2,14 @@
 - name: Blog
   href: '/blog/'
 
-- name: Linux
-  href: '/linux/'
+- name: Service Design
+  href: '/service-design/'
 
-- name: Javascript
-  href: '/html/'
+- name: FED
+  href: '/FED/'
+  
+- name: UX
+  href: '/ux/'
 
 - name: Surf
   href: '/surf/'
