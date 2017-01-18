@@ -2,8 +2,8 @@
 layout: post
 date:   2017-01-18
 desc: Useful JS Libraries
-keywords: “Javascript, Fabrizio”
-categories: [Javascript]
+keywords: “Javascript, Fabrizio, FED, Front End Development”
+categories: [Front End Development, Fed]
 icon: icon-centos
 published: true
 title: Best JS libraries for animation
