@@ -10,7 +10,7 @@
             {% assign loopindex = forloop.index | modulo: 2 %}
         
           
-            <div class="col-lg-3 col-md-3 col-xs-6 wow text-center {% if loopindex == 1 %} fadeInRight {% else %} fadeInLeft {% endif %}">
+            <div class="col-lg-2 col-md-3 col-sm-3 col-xs-6 wow text-center {% if loopindex == 1 %} fadeInRight {% else %} fadeInLeft {% endif %}">
 				<p>{{ skill.name }}</p>
 				<img class="img-responsive img-circle img-small" src="{{skill.img}}" alt="{{skill.name}}">
             </div>

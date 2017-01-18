@@ -21,8 +21,8 @@ tags:
 
 
 
-Steve Krug’s - Don’t Make Me Think
+WOW.js
 
 and
 
-Susan M. Weinschenk's - 100 Things every designer needs to konw about people
+Uptype.js
