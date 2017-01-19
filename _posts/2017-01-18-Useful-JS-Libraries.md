@@ -44,3 +44,10 @@ and
 
 
 [View the live demo](http://www.mattboldt.com/demos/typed-js/) | [Go to my site, mattboldt.com](http://www.mattboldt.com) “
+
+Use [ScrollReveal](https://github.com/jlmakes/scrollreveal)
+It is great for exactly what it sounds like.... Revealing when a user has scrolled to that section of the page.
+
+Crazy right? haha
+
+![ScrollReveal](https://camo.githubusercontent.com/bcba2683fa4ffc9961ff5e350c14a8d433f2df8a/68747470733a2f2f7363726f6c6c72657665616c6a732e6f72672f6173736574732f7363726f6c6c72657665616c2d7265706f2d6865616465722e706e67)
