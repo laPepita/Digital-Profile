@@ -14,10 +14,16 @@ tags:
   - tools
 published: true
 ---
-# Skills being asked for in Service Design jobs advertised on LinkedIn in San Francisco, CA, US - 20/01/2017
-## The below chart shows the occurrence of skills or tools in ~25 different service design jobs advertised through LinkedIn in San Francisco, CA, US and the bay area.  This was just a quick analysis that I ran while preparing by plan for the next few months.  
+
+
+## Skills being asked for in Service Design jobs advertised on LinkedIn in San Francisco, CA, US - 20/01/2017
+
+
+### The below chart shows the occurrence of skills or tools in ~25 different service design jobs advertised through LinkedIn in San Francisco, CA, US and the bay area.  This was just a quick analysis that I ran while preparing by plan for the next few months.  
+
 
 ### The Chart
+
 
 | Things/skills to learn                            | Importance |   
 |---------------------------------------------------|---|
@@ -43,7 +49,9 @@ published: true
 | workshops                                         | 1 |   
 
 
+
 ### I guess a little more about me?
+
 
 My name is Fabrizio Giabardo. I love ths following things:
 
