@@ -1,0 +1,95 @@
+/*
+   This document has been created with Marked.app <http://marked2app.com>
+   Please leave this notice in place, along with any additional credits below.
+   ---------------------------------------------------------------
+   Title: Ulysses Freestraction Light
+   Author: Jonathan Poritsky <http://candlerblog.com>
+   Description: Based on the Freestraction color scheme used in Ulysses III <http://www.ulyssesapp.com>.
+   For more information read the introductory post: http://candlerblog.com/2013/04/11/ulysses-iii-and-marked/ 
+*/
+
+body {
+
+	font-family: "Source Sans Pro","Helvetica Neue",Helvetica,sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+	text-align: center;
+	color: rgb(12,139,186);	
+	line-height: 1;
+	font-weight: 600;
+	font-family: "Minion Pro","Chaparral Pro",Georgia,serif;
+}
+
+h1 {
+	font-size: 2.2em;
+}
+h2 {
+	font-size: 1.8em;
+}
+h3 {
+	font-size: 1.6em;
+}
+h4 {
+	font-size: 1.4em;
+}
+h5 {
+	font-size: 1.3em;
+}
+h6 {
+	font-style: italic;
+	font-size: 1em;
+}
+.footnote {
+	font-size: 50%;
+	vertical-align: super;
+}
+div.footnotes {
+	font-size: 80%;
+}
+pre, code {
+	white-space: pre-wrap;
+}
+blockquote {
+	background:rgb(230,230,230);
+	display: block;
+	font-style:italic;
+	font-weight:200;
+	color: rgb(12,139,186);	
+	padding:0.2em 2em 0.2em 2em;
+	-webkit-margin-before: 1em;
+	-webkit-margin-after: 1em;
+	-webkit-margin-start: 0;
+	-webkit-margin-end: 0;
+}
+
+code {
+	font-family: Inconsolata,"Courier Prime",mono;
+	font-size:80%;
+	padding: 2px;
+	color: rgb(20,126,73);
+	background: rgb(224,232,228);
+}
+
+.article table {
+    background: aliceblue;
+    border: 1px solid black;
+    margin: auto;
+}
+
+
+.article thead {
+    border: 0.5px solid black;
+}
+
+.aricle tr,.article th {
+    padding: 3%;
+   
+}
+
+.article td {
+    padding: 2%;
+}
+.article p {
+	text-align: center;
+}
+

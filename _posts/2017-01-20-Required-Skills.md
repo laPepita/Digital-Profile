@@ -4,7 +4,7 @@ title: Most sought after Service design skills in San Fran
 desc: "What skills you need to have as a service designer in San Fran"
 keywords: "blog,fabrizio Giabardo, Service design, skills, tools"
 date: 2017-01-20
-categories: [Service design, Service Design]
+categories: [Service-design, Service Design]
 icon: fa-check-square-o
 subtitle: Just some initial analytics
 comments: true
