@@ -19,8 +19,8 @@ tags:
 ## Books That I Recommend for UX
 
 ### Steve Krug’s - Don’t Make Me Think
-> [Good reads](http://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
-> > “Since Don’t Make Me Think was first published in 2000, over 400,000 Web designers and developers have relied on Steve Krug’s guide to help them understand the principles of intuitive navigation and information design.” 
+> ##### [Good reads](http://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
+>   “Since Don’t Make Me Think was first published in 2000, over 400,000 Web designers and developers have relied on Steve Krug’s guide to help them understand the principles of intuitive navigation and information design.” 
 
 ![Don't make me think book cover](http://t2.gstatic.com/images?q=tbn:ANd9GcQf5mLTzUxPludI9Z4CAx-240VGkOfCjxBriTBQoN39LAsklObd)
 
