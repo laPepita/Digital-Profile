@@ -42,6 +42,7 @@ Learn to increase the effectiveness, conversion rates, and usability of your own
 > * How do you motivate people to continue on to (the next step?
 > * What line length for text is best?
 * Are some fonts better than others? " 
+>   
 >   ![Book cover](http://www.peachpit.com/ShowCover.aspx?isbn=0321767535)
 
 Both are rated pretty highly and have been recommended by a number of people at both Deloitte Digital and other areas.
