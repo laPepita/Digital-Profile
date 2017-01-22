@@ -26,7 +26,7 @@ The following books have been recommended based on quality, to me by a number of
 ![Don't make me think book cover](http://t2.gstatic.com/images?q=tbn:ANd9GcQf5mLTzUxPludI9Z4CAx-240VGkOfCjxBriTBQoN39LAsklObd){: .centImg}
 
 
-and
+
 
 #### Susan M. Weinschenk's - 100 Things every designer needs to know about people
 
