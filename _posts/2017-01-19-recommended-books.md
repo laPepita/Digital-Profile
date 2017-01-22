@@ -24,7 +24,7 @@ The following books have been recommended based on quallity, to me by a number o
 > ###### [Good reads](http://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 >   “Since Don’t Make Me Think was first published in 2000, over 400,000 Web designers and developers have relied on Steve Krug’s guide to help them understand the principles of intuitive navigation and information design.” 
 ![Don't make me think book cover](http://t2.gstatic.com/images?q=tbn:ANd9GcQf5mLTzUxPludI9Z4CAx-240VGkOfCjxBriTBQoN39LAsklObd)
-{: height="36px" width="36px"}
+
 
 and
 
@@ -41,10 +41,8 @@ Learn to increase the effectiveness, conversion rates, and usability of your own
 > * What is the limit to someone s social circle?
 > * How do you motivate people to continue on to (the next step?
 > * What line length for text is best?
-> * Are some fonts better than others? 
->   These are just a few of the questions that the book answers in its deep-dive exploration of what makes people tick." 
-
-![Book cover](http://www.peachpit.com/ShowCover.aspx?isbn=0321767535)
+> * Are some fonts better than others? " 
+>.  ![Book cover](http://www.peachpit.com/ShowCover.aspx?isbn=0321767535)
 
 Both are rated pretty highly and have been recommended by a number of people at both Deloitte Digital and other areas.
 
