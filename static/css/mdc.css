@@ -89,7 +89,9 @@ code {
 .article td {
     padding: 2%;
 }
-.article p {
+.centImg {
 	text-align: center;
+	margin: auto;
+	padding:5%;
 }
 
