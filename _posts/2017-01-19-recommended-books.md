@@ -19,7 +19,7 @@ tags:
 ## Books That I Recommend for UX
 
 ### Steve Krug’s - Don’t Make Me Think
-> ##### [Good reads](http://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
+> ###### [Good reads](http://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 >   “Since Don’t Make Me Think was first published in 2000, over 400,000 Web designers and developers have relied on Steve Krug’s guide to help them understand the principles of intuitive navigation and information design.” 
 
 ![Don't make me think book cover](http://t2.gstatic.com/images?q=tbn:ANd9GcQf5mLTzUxPludI9Z4CAx-240VGkOfCjxBriTBQoN39LAsklObd)
@@ -28,11 +28,11 @@ and
 
 ### Susan M. Weinschenk's - 100 Things every designer needs to know about people
 
-> [Good reads](http://www.goodreads.com/book/show/10778139-100-things-every-designer-needs-to-know-about-people)
-> > “We design to elicit responses from people. We want them to buy something, read more, or take action of some kind. Designing without understanding what makes people act the way they do is like exploring a new city without a map: results will be haphazard, confusing, and inefficient. This book combines real science and research with practical examples to deliver a guide every designer needs. With it you ll be able to design more intuitive and engaging work for print, websites, applications, and products that matches the way people think, work, and play.
+> ###### [Good reads](http://www.goodreads.com/book/show/10778139-100-things-every-designer-needs-to-know-about-people)
+>   “We design to elicit responses from people. We want them to buy something, read more, or take action of some kind. Designing without understanding what makes people act the way they do is like exploring a new city without a map: results will be haphazard, confusing, and inefficient. This book combines real science and research with practical examples to deliver a guide every designer needs. With it you ll be able to design more intuitive and engaging work for print, websites, applications, and products that matches the way people think, work, and play.
 Learn to increase the effectiveness, conversion rates, and usability of your own design projects by finding the answers to questions such as: 
-> > 
-> * What grabs and holds attention on a page or screen?
+>    
+>  * What grabs and holds attention on a page or screen?
 > * What makes memories stick?
 > * What is more important, peripheral or central vision?
 > * How can you predict the types of errors that people will make?
