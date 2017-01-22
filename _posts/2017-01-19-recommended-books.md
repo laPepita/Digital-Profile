@@ -35,13 +35,13 @@ and
 Learn to increase the effectiveness, conversion rates, and usability of your own design projects by finding the answers to questions such as: 
 >    
 >  * What grabs and holds attention on a page or screen?
-> * What makes memories stick?
-> * What is more important, peripheral or central vision?
-> * How can you predict the types of errors that people will make?
-> * What is the limit to someone s social circle?
-> * How do you motivate people to continue on to (the next step?
-> * What line length for text is best?
-* Are some fonts better than others? " 
+>  * What makes memories stick?
+>  * What is more important, peripheral or central vision?
+>  * How can you predict the types of errors that people will make?
+>  * What is the limit to someone s social circle?
+>  * How do you motivate people to continue on to (the next step?
+>  * What line length for text is best?
+>  * Are some fonts better than others? " 
 >   These are just a few ideas that are explored.
 >   ![Book cover](http://www.peachpit.com/ShowCover.aspx?isbn=0321767535){: #myid}
 
