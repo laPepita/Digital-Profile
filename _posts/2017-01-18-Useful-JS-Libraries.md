@@ -51,3 +51,11 @@ It is great for exactly what it sounds like.... Revealing when a user has scroll
 Crazy right? haha
 
 ![ScrollReveal](https://camo.githubusercontent.com/bcba2683fa4ffc9961ff5e350c14a8d433f2df8a/68747470733a2f2f7363726f6c6c72657665616c6a732e6f72672f6173736574732f7363726f6c6c72657665616c2d7265706f2d6865616465722e706e67){: .centImg}
+
+## Looking for inspiration?
+These sites were recommended by a fiend on mine.  He visits them anytime he needs inspiration.
+
+>   A couple of sites I always referred to for inspiration
+>  * https://codyhouse.co/
+>  * https://tympanus.net/codrops/​
+
