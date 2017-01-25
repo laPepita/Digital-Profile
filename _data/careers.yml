@@ -11,6 +11,16 @@
   icon: fa-plane
 
 - name:
+    detail: Design Thinking for Innovation
+  desc:
+    detail: This online course was recommended to me by a service design director at Deloitte. It provides an overview of design thinking and working with a model containing four key questions and several tools to help users understand design thinking as a problem-solving approach.
+  date:
+    detail: Oct. 2016
+  job:
+    detail: Design Thinking
+  icon: fa-paint-brush
+
+- name:
     detail: Agile Scrum Master
   desc:
     detail: Late 2016 I completed my offical Scrum Master training, I passed the test with a 92%.  I have used Scrum on a number of projects at Deloitte and at university, but it was nice to finally have an offical qualification. 
@@ -18,7 +28,7 @@
     detail: Oct. 2016
   job:
     detail: Scrum Master
-  icon: fa-check
+  icon: fa-check 
 
 - name:
     detail: Deloitte Digital
@@ -48,7 +58,7 @@
     detail: Exploration Geologist
     i18n: Jervous Mining Ltd.
   desc:
-    detail: During early 2015, I worked as a Nickel/Cobalt exploration geologist in the Cobar Basin, NSW.
+    detail: During early 2015, I worked as a Nickel/Cobalt exploration geologist in the Cobar Basin, NSW where I was tasked with identifying potential economically viable deposits in Nickel Laterites.  I worked with a team of 5 in high temperature and high stress environments to deliver the most cost effective outcome for the mining company.
     i18n: college_des
   date:
     detail: Feb. 2015

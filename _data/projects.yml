@@ -2,16 +2,16 @@
 
 - name: 'CGU'
   img: 'static/img/landing/cgu.jpg'
-  desc: "Worked as a front end developer to theme a forum platform and build out AJAX call functionality"
-
-- name: 'HeyBuds Start-up Weekend'
-  img: 'static/img/landing/heyBuds.png'
-  desc:  "Over 52 hours a team and I validated ideas, rapidly prototyped and user tested a flower delivery network/platform.  We developed our value proposition well and won the competition."
+  desc: "I worked as a front end developer to theme a forum platform and build out AJAX call functionality and custom modules for the client."
 
 - name: 'Global Service Design Jam Melbourne'
   img: 'static/img/landing/globServ.jpeg'
   desc:  "In a spirit of experimentation, co-operation and friendly competition, my team had 48 hours to develop brand new services inspired by a shared theme using Design Thinking. "
 
+- name: 'HeyBuds Start-up Weekend'
+  img: 'static/img/landing/heyBuds.png'
+  desc:  "Over 54 hours, a team and I validated ideas, rapidly prototyped and user tested a flower delivery network/platform. We developed and iterated our value proposition, wireframes and business model canvas focusing on being lean. After presentations in front of local entrepreneurial leaders we were named winners of the overall competition."
+
 - name: 'AustralianSuper'
   img: 'static/img/landing/ausSuper.jpeg'
-  desc: "I spent a term of 8 months at AustralianSuper on a secondment.  I identified a number of issues and... "
+  desc: "I spent a term of 8 months at AustralianSuper on a secondment.  I worked with UX and CX tools to help build out the current website's user experience, I custom built an automated python script to provide extremely detailed reports from an email campaign manager and I uncovered a huge opportunity to benefit members."
