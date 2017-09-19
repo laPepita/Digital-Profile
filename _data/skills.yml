@@ -5,7 +5,7 @@
 
 - name: Workshop Facilitation
   percentage: 75
-  img: 'static/img/landing/CSS.png'
+  img: 'static/img/landing/wf.png'
 
 - name: Contextual Inquiry
   percentage: 75
@@ -19,17 +19,17 @@
   percentage: 75
   img: 'static/img/landing/agile.png'
   
-- name: Storytelling
-  percentage: 90
-  img: 'static/img/landing/st.png'
+- name: Sketch
+  percentage: 2
+  img: 'static/img/landing/sketch.jpeg'
   
 - name: Customer Interviews
   percentage: 30
   img: 'static/img/landing/ci.png'
   
-- name: Sketch
-  percentage: 2
-  img: 'static/img/landing/sketch.jpeg'
+- name: Storytelling
+  percentage: 90
+  img: 'static/img/landing/st.png'
   
 - name: Journey Mapping
   percentage: 60
