@@ -1,7 +1,7 @@
 # skills section data
 - name: Prototyping
   percentage: 85
-  img: 'static/img/landing/prototyping.png'
+  img: 'static/img/landing/pt.png'
 
 - name: Workshop Facilitation
   percentage: 75
@@ -9,7 +9,7 @@
 
 - name: Contextual Inquiry
   percentage: 75
-  img: 'static/img/landing/HTML.png' 
+  img: 'static/img/landing/ConIn.png' 
   
 - name: Design Thinking
   percentage: 50
@@ -25,7 +25,7 @@
   
 - name: Customer Interviews
   percentage: 30
-  img: 'static/img/landing/javascript.jpeg'
+  img: 'static/img/landing/ci.png'
   
 - name: Sketch
   percentage: 2
@@ -33,7 +33,7 @@
   
 - name: Journey Mapping
   percentage: 60
-  img: 'static/img/landing/photoshop.jpeg'
+  img: 'static/img/landing/jm.png'
   
 - name: Human-Centred-Design
   percentage: 60
