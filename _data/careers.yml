@@ -3,12 +3,22 @@
 - name:
     detail: Where to next?
   desc:
-    detail: Not sure yet but San Fran looks pretty good to me.  I'll have to keep you posted.
+    detail: Not sure yet but London looks pretty good to me.  I'll have to keep you posted.
   date:
     detail: Jun. 2018
   job:
     detail: Travel
   icon: fa-plane
+  
+- name:
+    detail: Surf Sheep
+  desc:
+    detail: The Co-founder of a Facebook chatbot Start-up that provides surf forecasts, reports and notifications to it’s users offering a value proposition that cannot be replicated with traditional surf report web apps.
+  date:
+    detail: Nov. 2016
+  job:
+    detail: Founded Startup
+  icon: fa-facebook
 
 - name:
     detail: Design Thinking for Innovation
