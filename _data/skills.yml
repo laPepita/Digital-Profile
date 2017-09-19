@@ -3,11 +3,11 @@
   percentage: 85
   img: 'static/img/landing/prototyping.png'
 
-- name: CSS
+- name: Workshop Facilitation
   percentage: 75
   img: 'static/img/landing/CSS.png'
 
-- name: HTML
+- name: Contextual Inquiry
   percentage: 75
   img: 'static/img/landing/HTML.png' 
   
@@ -23,7 +23,7 @@
   percentage: 90
   img: 'static/img/landing/st.png'
   
-- name: Javascript
+- name: Customer Interviews
   percentage: 30
   img: 'static/img/landing/javascript.jpeg'
   
