@@ -1,11 +1,11 @@
 # projects section data
 
 - name: 'Large insurance company'
-  img: 'static/img/landing/avatar_all.png'
+  img: 'static/img/landing/color1.png'
   desc: "I worked as a front end developer to theme a forum platform and build out AJAX call functionality and custom modules for the client."
 
 - name: 'Global Service Design Jam Melbourne'
-  img: 'static/img/landing/globServ.jpeg'
+  img: 'static/img/landing/color2.png'
   desc:  "In a spirit of experimentation, co-operation and friendly competition, my team had 48 hours to develop brand new services inspired by a shared theme using Design Thinking. "
 
 - name: 'HeyBuds Start-up Weekend'
@@ -13,17 +13,17 @@
   desc:  "Over 54 hours, a team and I validated ideas, rapidly prototyped and user tested a flower delivery network/platform. We developed and iterated our value proposition, wireframes and business model canvas focusing on being lean. After presentations in front of local entrepreneurial leaders we were named winners of the overall competition."
 
 - name: 'Goverment organisation'
-  img: 'static/img/landing/avatar_all.png'
+  img: 'static/img/landing/color3.png'
   desc: "Working as the lead designer on the project I mapped out the end-to-end user journey of Victorian schools attempting to connect with international schools. After running numerous and successful interviews and workshops the problem statement changed from a tech selection question to how might we promote internationalisation in Victorian schools."
 
 - name: 'Large telecommunications company'
-  img: 'static/img/landing/avatar_all.png'
+  img: 'static/img/landing/color4.png'
   desc: "I worked with a team of 6 to design a Free-to-air TV experience on large profile media product that was integrated with video on-demand services to provide a break through entertainment experience."
   
 - name: 'Large financial services company'
-  img: 'static/img/landing/avatar_all.png'
+  img: 'static/img/landing/color5.png'
   desc: "Working as a UX designer in 2 scrum teams, I was tasked with designing a unique mobile experience for the company's many users.  The goal was to simplify the language around products and optimise the conversion rates."
 
 - name: 'Large superannuation company'
-  img: 'static/img/landing/avatar_all.png'
+  img: 'static/img/landing/color6.png'
   desc: "I spent a term of 9 months at a large superannuation company on a secondment.  I worked with UX and CX tools to help build out the current website's user experience and assisted running agile projects to deal with uncertainty in the market and build their member base."
