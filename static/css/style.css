@@ -257,18 +257,18 @@ body.mini-navbar .navbar-default .nav>li>.nav-second-level li a {
 }
 .navbar -
             default.special_link a {
-    background:#3385FF;
+    background:#4caf50;
     color:# fff
 }
 .navbar -
             default.special_link a:hover {
-    background:#3385FF!important;
+    background:#4caf50!important;
     color:# fff
 }
 .navbar -
             default.special_link a span.label {
     background:#fff;
-    color:#3385FF
+    color:#4caf50
 }
 .navbar-default .landing_link a {
     background:# 3385 FF;
@@ -276,13 +276,13 @@ body.mini-navbar .navbar-default .nav>li>.nav-second-level li a {
 }
 .navbar -
             default.landing_link a:hover {
-    background:#3385FF!important;
+    background:#4caf50!important;
     color:# fff
 }
 .navbar -
             default.landing_link a span.label {
     background:#fff;
-    color:#3385FF
+    color:#4caf50
 }
 .logo-element {
     text-align:center;
@@ -357,7 +357,7 @@ body.canvas - menu.logo - element {
 }
 body.mini - navbar.nav - header {
     padding:0;
-    background - color:#3385FF
+    background - color:#4caf50
 }
 body.canvas-menu .nav-header {
     padding:33px 25px
@@ -442,7 +442,7 @@ body.canvas-menu.mini-navbar nav.navbar-static-side {
 }
 .top - navigation.navbar - nav.dropdown - menu > .active > a {
     background:#fff;
-    color:#3385FF;
+    color:#4caf50;
     font-weight:700
 }
 .white-bg .navbar-fixed-top,.white-bg .navbar-static-top {
@@ -457,14 +457,14 @@ body.canvas-menu.mini-navbar nav.navbar-static-side {
 }
 .top-navigation .nav>li a:focus,.top-navigation .nav>li a:hover {
     background:# fff;
-    color:#3385FF
+    color:#4caf50
 }
 .top-navigation .nav>li.active {
     background:# fff;
     border:none
 }
 .top - navigation.nav > li.active > a {
-    color:#3385FF
+    color:#4caf50
 }
 .top-navigation .navbar-right {
     margin-right:10px
@@ -487,7 +487,7 @@ body.canvas-menu.mini-navbar nav.navbar-static-side {
     margin - top:0
 }
 .top - navigation.navbar - brand {
-    background:#3385FF;
+    background:#4caf50;
     color:# fff;
     padding:15 px 25 px
 }
@@ -513,7 +513,7 @@ body.canvas-menu.mini-navbar nav.navbar-static-side {
     padding:40 px 0
 }
 .navbar - toggle {
-    background - color:#3385FF;
+    background - color:#4caf50;
     color:# fff;
     padding:6 px 12 px;
     font - size:14 px
@@ -554,7 +554,7 @@ body.canvas-menu.mini-navbar nav.navbar-static-side {
     min - width:120 px
 }
 .btn - primary.btn - outline {
-    color:#3385FF
+    color:#4caf50
 }
 .btn-success.btn-outline {
     color:# 1 c84c6
@@ -572,7 +572,7 @@ body.canvas-menu.mini-navbar nav.navbar-static-side {
     color:#fff
 }
 .btn - primary {
-    background - color:#3385FF;
+    background - color:#4caf50;
     border-color:# 3385 FF;
     color:#FFF
 }
@@ -685,7 +685,7 @@ body.canvas-menu.mini-navbar nav.navbar-static-side {
     color:inherit
 }
 .btn - link.active,.btn - link:active,.btn - link:focus,.btn - link:hover,.open.dropdown - toggle.btn - link {
-    color:#3385FF;
+    color:#4caf50;
     text-decoration:none
 }
 .btn-link.active[disabled],.btn-link.disabled,.btn-link.disabled.active,.btn-link.disabled:active,.btn-link.disabled:focus,.btn-link.disabled:hover,.btn-link[disabled],.btn-link[disabled]:active,.btn-link[disabled]:focus,.btn-link[disabled]:hover,fieldset[disabled] .btn-link,fieldset[disabled] .btn-link.active,fieldset[disabled] .btn-link:active,fieldset[disabled] .btn-link:focus,fieldset[disabled] .btn-link:hover {
@@ -945,7 +945,7 @@ button.dim:active:before {
     border - radius:2 px
 }
 .fc - state - active {
-    background - color:#3385FF;
+    background - color:#4caf50;
     border-color:# 3385 FF;
     color:#fff
 }
@@ -971,7 +971,7 @@ button.dim:active:before {
 }
 .fc - agenda.fc - event - time,.fc - event,.fc - event a {
     padding:4 px 6 px;
-    background - color:#3385FF;
+    background - color:#4caf50;
     border-color:# 3385 FF
 }
 .fc - event - time,.fc - event - title {
@@ -1056,7 +1056,7 @@ button.dim:active:before {
 }
 a.list-group-item.active,a.list-group-item.active:focus,a.list-group-item.active:hover {
     background-color:# 3385 FF;
-    border - color:#3385FF;
+    border - color:#4caf50;
     color:# FFF;
     z - index:2
 }
@@ -1308,7 +1308,7 @@ div.dt - button - info {
     user - select:none
 }
 .pace.pace - progress {
-    background:#3385FF;
+    background:#4caf50;
     position:fixed;
     z-index:2040;
     top:0;
@@ -1429,7 +1429,7 @@ div.dt - button - info {
     font - size:14 px
 }
 .form - control:focus,.single - line:focus {
-    border - color:#3385FF!important
+    border - color:#4caf50!important
 }
 .has-success .form-control {
     border-color:# 3385 FF
@@ -1441,7 +1441,7 @@ div.dt - button - info {
     border - color:#ed5565
 }
 .has - success.control - label {
-    color:#3385FF
+    color:#4caf50
 }
 .has-warning .control-label {
     color:# f8ac59
@@ -1467,7 +1467,7 @@ div.dt - button - info {
     width:20 %
 }
 .noUi - connect {
-    background:#3385FF;
+    background:#4caf50;
     box-shadow:none
 }
 .slider_red .noUi-connect {
@@ -1499,7 +1499,7 @@ div.dt - button - info {
     display:block;
     overflow:hidden;
     cursor:pointer;
-    border:2 px solid #3385FF;
+    border:2 px solid #4caf50;
     border-radius:3px
 }
 .onoffswitch-inner {
@@ -1529,7 +1529,7 @@ div.dt - button - info {
 .onoffswitch - inner:before {
     content:"ON";
     padding - left:7 px;
-    background - color:#3385FF;
+    background - color:#4caf50;
     color:# FFF
 }
 .onoffswitch - inner:after {
@@ -1544,7 +1544,7 @@ div.dt - button - info {
     width:18px;
     margin:0;
     background:# FFF;
-    border:2 px solid #3385FF;
+    border:2 px solid #4caf50;
     border-radius:3px;
     position:absolute;
     top:0;
@@ -1979,7 +1979,7 @@ label.error {
     cursor:pointer
 }
 .toast,.toast - success {
-    background - color:#3385FF
+    background - color:#4caf50
 }
 .toast-error {
     background-color:# ed5565
@@ -2016,7 +2016,7 @@ label.error {
     border-left:6px solid # ed5565
 }
 .inspinia - notify.alert - info {
-    border - left:6 px solid #3385FF
+    border - left:6 px solid #4caf50
 }
 .img-container,.img-preview {
     overflow:hidden;
@@ -2117,7 +2117,7 @@ a.forum-item-title:hover {
     color:# 9 b9b9b
 }
 .forum - item.active.fa,.forum - item.active a.forum - item - title {
-    color:#3385FF
+    color:#4caf50
 }
 @media (max-width:992px) {
     .forum-info {
@@ -2273,7 +2273,7 @@ a.forum-item-title:hover {
     font - weight:500
 }
 .vertical - date small {
-    color:#3385FF;
+    color:#4caf50;
     font-weight:400
 }
 .vertical-timeline-content::before {
@@ -2463,7 +2463,7 @@ a.forum-item-title:hover {
     position:absolute;
     left:10 px;
     border - radius:3 px;
-    background:#3385FF;
+    background:#4caf50;
     padding:3px;
     color:# fff;
     cursor:pointer;
@@ -2549,7 +2549,7 @@ a.forum-item-title:hover {
     padding-left:3px
 }
 .slick-next:before,.slick-prev:before {
-    color:#3385FF!important
+    color:#4caf50!important
 }
 .payment-card {
     background:#fff;
@@ -3049,7 +3049,7 @@ img.circle-border {
     font-weight:600;
     padding:17px 20px;
     text-align:center;
-    background-color:#3385FF
+    background-color:#4caf50
 }
 .login-panel {
     margin-top:25%
@@ -3212,7 +3212,7 @@ table.table-mail tr td {
     background-color:#fff
 }
 .navy-bg {
-    background-color:#3385FF;
+    background-color:#4caf50;
     color:#fff
 }
 .blue-bg {
@@ -3235,11 +3235,11 @@ table.table-mail tr td {
     background-color:#262626
 }
 .panel-primary {
-    border-color:#3385FF
+    border-color:#4caf50
 }
 .panel-primary>.panel-heading {
-    background-color:#3385FF;
-    border-color:#3385FF
+    background-color:#4caf50;
+    border-color:#4caf50
 }
 .panel-success {
     border-color:#1c84c6
@@ -3274,7 +3274,7 @@ table.table-mail tr td {
     color:#fff
 }
 .progress-bar {
-    background-color:#3385FF
+    background-color:#4caf50
 }
 .progress-small,.progress-small .progress-bar {
     height:10px
@@ -3312,7 +3312,7 @@ table.table-mail tr td {
     margin-top:0
 }
 .text-navy {
-    color:#3385FF
+    color:#4caf50
 }
 .text-primary {
     color:inherit
@@ -3969,7 +3969,7 @@ ul.notes li div:focus,ul.notes li div:hover {
     color:#3d4d5d
 }
 .category-list li a .text-navy {
-    color:#3385FF
+    color:#4caf50
 }
 .category-list li a .text-primary {
     color:#1c84c6
@@ -4121,7 +4121,7 @@ a.compose-mail {
     color:inherit
 }
 .file-list li a:hover {
-    color:#3385FF
+    color:#4caf50
 }
 .user-friends img {
     width:42px;
@@ -4220,7 +4220,7 @@ dd.project-people {
     line-height:22px
 }
 .faq-question,.faq-question:hover {
-    color:#3385FF
+    color:#4caf50
 }
 .faq-item {
     padding:20px;
@@ -4393,7 +4393,7 @@ dd.project-people {
     padding:40px
 }
 .issue-tracker .btn-link {
-    color:#3385FF
+    color:#4caf50
 }
 table.issue-tracker tbody tr td {
     vertical-align:middle;
@@ -4442,7 +4442,7 @@ table.issue-tracker tbody tr td {
     border-left:3px solid #1c84c6
 }
 .agile-list li.success-element {
-    border-left:3px solid #3385FF
+    border-left:3px solid #4caf50
 }
 .agile-detail {
     margin-top:5px;
@@ -4521,13 +4521,13 @@ table.shoping-cart-table tr td:last-child {
     margin:2px 0 5px
 }
 .product-name:focus,.product-name:hover {
-    color:#3385FF
+    color:#4caf50
 }
 .product-price {
     font-size:14px;
     font-weight:600;
     color:#fff;
-    background-color:#3385FF;
+    background-color:#4caf50;
     padding:6px 12px;
     position:absolute;
     top:-32px;
@@ -4638,7 +4638,7 @@ table.shoping-cart-table tr td:last-child {
     font-weight:600
 }
 .vote-actions a {
-    color:#3385FF;
+    color:#4caf50;
     font-weight:600
 }
 .vote-title,.vote-title:focus,.vote-title:hover {
@@ -4658,7 +4658,7 @@ table.shoping-cart-table tr td:last-child {
     margin-right:10px
 }
 .vote-info a:hover {
-    color:#3385FF
+    color:#4caf50
 }
 .vote-icon {
     text-align:right;
@@ -4669,7 +4669,7 @@ table.shoping-cart-table tr td:last-child {
     text-align:center
 }
 .vote-icon.active {
-    color:#3385FF
+    color:#4caf50
 }
 body.body-small .vote-icon {
     display:none
@@ -4692,14 +4692,14 @@ body.body-small .vote-icon {
     height:38px;
     width:38px;
     display:block;
-    background:#3385FF;
+    background:#4caf50;
     padding:9px 8px;
     color:#fff;
     border-radius:50%
 }
 .open-small-chat:hover {
     color:#fff;
-    background:#3385FF
+    background:#4caf50
 }
 .small-chat-box {
     display:none;
@@ -4751,7 +4751,7 @@ body.body-small .vote-icon {
     margin-bottom:10px
 }
 .small-chat-box .content .chat-message.active {
-    background:#3385FF;
+    background:#4caf50;
     color:#fff
 }
 .small-chat-box .content .left {
@@ -4824,7 +4824,7 @@ body.body-small .vote-icon {
 .sk-spinner-rotating-plane.sk-spinner {
     width:30px;
     height:30px;
-    background-color:#3385FF;
+    background-color:#4caf50;
     margin:0 auto;
     -webkit-animation:sk-rotatePlane 1.2s infinite ease-in-out;
     animation:sk-rotatePlane 1.2s infinite ease-in-out
@@ -4865,7 +4865,7 @@ body.body-small .vote-icon {
     width:100%;
     height:100%;
     border-radius:50%;
-    background-color:#3385FF;
+    background-color:#4caf50;
     opacity:.6;
     position:absolute;
     top:0;
@@ -4903,7 +4903,7 @@ body.body-small .vote-icon {
     font-size:10px
 }
 .sk-spinner-wave div {
-    background-color:#3385FF;
+    background-color:#4caf50;
     height:100%;
     width:6px;
     display:inline-block;
@@ -4951,7 +4951,7 @@ body.body-small .vote-icon {
     position:relative
 }
 .sk-spinner-wandering-cubes .sk-cube1,.sk-spinner-wandering-cubes .sk-cube2 {
-    background-color:#3385FF;
+    background-color:#4caf50;
     width:10px;
     height:10px;
     position:absolute;
@@ -5010,7 +5010,7 @@ body.body-small .vote-icon {
     width:40px;
     height:40px;
     margin:0 auto;
-    background-color:#3385FF;
+    background-color:#4caf50;
     border-radius:100%;
     -webkit-animation:sk-pulseScaleOut 1s infinite ease-in-out;
     animation:sk-pulseScaleOut 1s infinite ease-in-out
@@ -5050,7 +5050,7 @@ body.body-small .vote-icon {
     display:inline-block;
     position:absolute;
     top:0;
-    background-color:#3385FF;
+    background-color:#4caf50;
     border-radius:100%;
     -webkit-animation:sk-chasingDotsBounce 2s infinite ease-in-out;
     animation:sk-chasingDotsBounce 2s infinite ease-in-out
@@ -5097,7 +5097,7 @@ body.body-small .vote-icon {
 .sk-spinner-three-bounce div {
     width:18px;
     height:18px;
-    background-color:#3385FF;
+    background-color:#4caf50;
     border-radius:100%;
     display:inline-block;
     -webkit-animation:sk-threeBounceDelay 1.4s infinite ease-in-out;
@@ -5150,7 +5150,7 @@ body.body-small .vote-icon {
     margin:0 auto;
     width:20%;
     height:20%;
-    background-color:#3385FF;
+    background-color:#4caf50;
     border-radius:100%;
     -webkit-animation:sk-circleBounceDelay 1.2s infinite ease-in-out;
     animation:sk-circleBounceDelay 1.2s infinite ease-in-out;
@@ -5282,7 +5282,7 @@ body.body-small .vote-icon {
 .sk-spinner-cube-grid .sk-cube {
     width:33%;
     height:33%;
-    background-color:#3385FF;
+    background-color:#4caf50;
     float:left;
     -webkit-animation:sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
     animation:sk-cubeGridScaleDelay 1.3s infinite ease-in-out
@@ -5342,7 +5342,7 @@ body.body-small .vote-icon {
     transform:scale3D(0,0,1)
 }
 }.sk-spinner-wordpress.sk-spinner {
-    background-color:#3385FF;
+    background-color:#4caf50;
     width:30px;
     height:30px;
     border-radius:30px;
@@ -5398,7 +5398,7 @@ body.body-small .vote-icon {
     margin:0 auto;
     width:18%;
     height:18%;
-    background-color:#3385FF;
+    background-color:#4caf50;
     border-radius:100%;
     -webkit-animation:sk-circleFadeDelay 1.2s infinite ease-in-out;
     animation:sk-circleFadeDelay 1.2s infinite ease-in-out;
@@ -5539,17 +5539,17 @@ body.landing-page {
     background-color:#fff
 }
 .landing-page span.navy {
-    color:#3385FF
+    color:#4caf50
 }
 .landing-page p.text-color {
     color:#676a6c
 }
 .landing-page a.navy-link {
-    color:#3385FF;
+    color:#4caf50;
     text-decoration:none
 }
 .landing-page a.navy-link:hover {
-    color:#3385FF
+    color:#4caf50
 }
 .landing-page section p {
     color:#aeaeae;
@@ -5567,7 +5567,7 @@ body.landing-page {
     width:60px;
     height:1px;
     margin:60px auto 0;
-    border-bottom:2px solid #3385FF
+    border-bottom:2px solid #4caf50
 }
 .landing-page .navbar-wrapper {
     position:fixed;
@@ -5609,10 +5609,10 @@ body.landing-page {
 .landing-page .navbar-default .navbar-nav>.active>a,.landing-page .navbar-default .navbar-nav>.active>a:hover {
     background:0 0;
     color:#fff;
-    border-top:6px solid #3385FF
+    border-top:6px solid #4caf50
 }
 .landing-page .navbar-default .navbar-nav>li>a:focus,.landing-page .navbar-default .navbar-nav>li>a:hover {
-    color:#3385FF;
+    color:#4caf50;
     background:inherit
 }
 .landing-page .navbar-default .navbar-nav>.active>a:focus {
@@ -5624,7 +5624,7 @@ body.landing-page {
     color:inherit
 }
 .landing-page .navbar-default .navbar-brand:focus,.landing-page .navbar-default .navbar-brand:hover {
-    background:#3385FF;
+    background:#4caf50;
     color:#fff
 }
 .landing-page .navbar-default .navbar-brand {
@@ -5632,7 +5632,7 @@ body.landing-page {
     height:auto;
     display:block;
     font-size:14px;
-    background:#3385FF;
+    background:#4caf50;
     padding:15px 20px;
     border-radius:0 0 5px 5px;
     font-weight:700;
@@ -5642,7 +5642,7 @@ body.landing-page {
     color:#676a6c
 }
 .landing-page .navbar-scroll.navbar-default .nav li a:hover {
-    color:#3385FF
+    color:#4caf50
 }
 .landing-page .navbar-wrapper .navbar.navbar-scroll {
     padding-top:0;
@@ -5783,7 +5783,7 @@ body.landing-page {
     margin-top:40px
 }
 .landing-page .features small {
-    color:#3385FF
+    color:#4caf50
 }
 .landing-page .features h2 {
     font-size:18px;
@@ -5796,12 +5796,12 @@ body.landing-page {
     font-weight:200
 }
 .landing-page .features-icon {
-    color:#3385FF;
+    color:#4caf50;
     font-size:40px
 }
 .landing-page .navy-section {
     margin-top:60px;
-    background:#3385FF;
+    background:#4caf50;
     color:#fff;
     padding:20px 0
 }
@@ -5816,7 +5816,7 @@ body.landing-page {
     margin:auto
 }
 .landing-page .social-icon a {
-    background:#3385FF;
+    background:#4caf50;
     color:#fff;
     padding:4px 8px;
     height:28px;
@@ -5825,7 +5825,7 @@ body.landing-page {
     border-radius:50px
 }
 .landing-page .social-icon a:hover {
-    background:#3385FF
+    background:#4caf50
 }
 .landing-page .img-small {
     height:88px;
@@ -5847,7 +5847,7 @@ body.landing-page {
 }
 .landing-page .pricing-plan .pricing-price span {
     font-weight:700;
-    color:#3385FF
+    color:#4caf50
 }
 .landing-page .btn-primary,.landing-page .comments-avatar .commens-name {
     font-weight:600;
@@ -5859,7 +5859,7 @@ body.landing-page {
     padding:20px 16px
 }
 .landing-page li.pricing-title {
-    background:#3385FF;
+    background:#4caf50;
     color:#fff;
     padding:10px;
     border-radius:4px 4px 0 0;
@@ -5869,14 +5869,14 @@ body.landing-page {
 .landing-page .testimonials {
     padding-top:80px;
     padding-bottom:90px;
-    background-color:#3385FF;
+    background-color:#4caf50;
     background-image:url(../img/landing/avatar_all.png)
 }
 .landing-page .big-icon {
     font-size:56px!important
 }
 .landing-page .features .big-icon {
-    color:#3385FF!important
+    color:#4caf50!important
 }
 .landing-page .contact {
     background-image:url(../img/landing/word_map.png);
@@ -5927,8 +5927,8 @@ body.landing-page {
     color:#fff
 }
 .landing-page .btn-primary,.landing-page .btn-primary.active,.landing-page .btn-primary:active,.landing-page .btn-primary:focus,.landing-page .btn-primary:hover,.landing-page .open .dropdown-toggle.btn-primary {
-    background-color:#3385FF;
-    border-color:#3385FF;
+    background-color:#4caf50;
+    border-color:#4caf50;
     color:#FFF
 }
 .landing-page .btn-primary {
@@ -5990,7 +5990,7 @@ body.landing-page {
     color:#676a6c
 }
 .landing-page .navbar-default .nav li a:hover {
-    color:#3385FF
+    color:#4caf50
 }
 .landing-page .navbar-wrapper .navbar {
     padding-top:0;
