@@ -7,7 +7,7 @@
   percentage: 75
   img: 'static/img/landing/wf.png'
 
-- name: Contextual Inquiry
+- name: Concept development
   percentage: 75
   img: 'static/img/landing/ConIn.png' 
   
@@ -23,7 +23,7 @@
 #  percentage: 2
 #  img: 'static/img/landing/sketch.jpeg'
   
-- name: Customer Interviews
+- name: Customer Interviewing
   percentage: 30
   img: 'static/img/landing/ci.png'
   
