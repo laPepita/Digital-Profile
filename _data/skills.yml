@@ -11,17 +11,17 @@
   percentage: 75
   img: 'static/img/landing/ConIn.png' 
   
-- name: Design Thinking
-  percentage: 50
-  img: 'static/img/landing/brain.jpeg'
+#- name: Design Thinking
+#  percentage: 50
+#  img: 'static/img/landing/brain.jpeg'
   
-- name: Agile
-  percentage: 75
-  img: 'static/img/landing/agile.png'
+#- name: Agile
+#  percentage: 75
+#  img: 'static/img/landing/agile.png'
   
-- name: Sketch
-  percentage: 2
-  img: 'static/img/landing/sketch.jpeg'
+#- name: Sketch
+#  percentage: 2
+#  img: 'static/img/landing/sketch.jpeg'
   
 - name: Customer Interviews
   percentage: 30
@@ -35,14 +35,14 @@
   percentage: 60
   img: 'static/img/landing/jm.png'
   
-- name: Human-Centred-Design
-  percentage: 60
-  img: 'static/img/landing/Human-cent.png'
+#- name: Human-Centred-Design
+#  percentage: 60
+#  img: 'static/img/landing/Human-cent.png'
   
-- name: Google Anayltics
-  percentage: 60
-  img: 'static/img/landing/GA.png'
+#- name: Google Anayltics
+#  percentage: 60
+#  img: 'static/img/landing/GA.png'
   
-- name: Invision
-  percentage: 60
-  img: 'static/img/landing/invision.png'
+#- name: Invision
+#  percentage: 60
+#  img: 'static/img/landing/invision.png'
