@@ -1,14 +1,24 @@
 # careers section data
 
 - name:
-    detail: Where to next?
+    detail: Indonesia
   desc:
-    detail: Not sure yet but London looks pretty good to me.  I'll have to keep you posted.
+    detail: I was contracted as a digital coach and product owner of a program designed for the top 120 leaders (VP and above) of the largest telecommunications company in Indonesia.  I was tasked with bringing in Lean principles and Design Thinking to the organisation while teaching them agile ways of working.
   date:
-    detail: Jun. 2018
+    detail: Feb. 2018
   job:
-    detail: Travel
+    detail: Digital coach
   icon: fa-plane
+
+- name:
+    detail: Doblin
+  desc:
+    detail:  The Doblin 101 training was a highly immersive and engaging face-to-face training session focused on building the fundamental skills of an innovation practitioner.
+  date:
+    detail: Sep. 2017
+  job:
+    detail: Training
+  icon: fa-think-cloud
   
 - name:
     detail: Surf Sheep
